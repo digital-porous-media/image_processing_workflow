@@ -1,0 +1,36 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: image_processing_workflow
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Cinar
+    family-names: Turhan
+    email: cinarturhan@utexas.edu
+    affiliation: The University of Texas at Austin
+    orcid: 'https://orcid.org/0000-0003-2533-7016'
+  - given-names: Masa
+    family-names: Prodanovic
+    email: masha@utexas.edu
+    affiliation: The University of Texas at Austin
+repository-code: >-
+  https://github.com/digital-porous-media/image_processing_workflow
+url: 'https://github.com/digital-porous-media/'
+abstract: >-
+  This workflow is intended to be an automated process for
+  analyzing image datasets from Digital Rocks Portal.
+keywords:
+  - beam_hardening
+  - image_processing
+  - segmentation
+  - image_filtering
+  - image_correction
+  - porous_media_imaging
+license: MIT
+commit: Initial release
+version: '0.1'
+date-released: '2024-04-11'
